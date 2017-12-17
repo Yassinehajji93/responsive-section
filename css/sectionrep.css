@@ -1,0 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Encode+Sans+Condensed);html{font-size:63%}.header{width:100%;background:url() center #595959;padding:2rem;box-sizing:border-box;overflow:auto;font-weight:400;font-size:1.6rem;line-height:1.3;text-rendering:optimizeLegibility}.header
+nav{float:left}.header nav
+a{display:inline-block;position:relative;text-align:left;width:2.5em;height:2.5em;background:0 0;border-radius:50%;margin:0
+.5rem;border:4px
+solid #ff4d4d;color:#ff4d4d;text-decoration:none;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-ms-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.header
+h1{display:block;float:left;font-family:Encode Sans Condensed,sans-serif;color:#fff;font-size:2rem;font-weight:700;letter-spacing:.05rem;margin-left:2rem}.xopixel-archive::after{content:"\f004";font-family:FontAwesome}.back::after{content:"\f060";font-family:FontAwesome}.archive::after,.back::after{position:absolute;font-size:1.7rem;top:2px;left:12px;width:100%;height:100%;line-height:2;text-indent:0}.archive:hover,.back:hover{color:#fff;background-color:#ff4d4d}
